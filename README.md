@@ -8,5 +8,6 @@ Patriot. was a final project for the Intro to Internet Technology course that my
 Overall, Patriot. was an exciting project that allowed me to gain experience in front-end web development, enhanced my teamwork skills, and expanded my knowledge about the history of Indonesian heroes.
 
 Technologies Used:
-- Programming Languages and Libraries: HTML, JavaScript, React, CSS, and Bootstrap.
+- Programming Languages and Libraries: HTML, JavaScript, React JS, and CSS.
+- Framework: Bootstrap.
 - Software: Visual Studio Code, CodeSandbox, Vercel, and GitHub.
