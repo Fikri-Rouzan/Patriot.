@@ -11,3 +11,4 @@ Technologies Used:
 - Programming Languages and Libraries: HTML, JavaScript, React JS, and CSS.
 - Framework: Bootstrap.
 - Software: Visual Studio Code, CodeSandbox, Vercel, and GitHub.
+- Deployment: Vercel.
